@@ -1,3 +1,4 @@
 hello world
+extra line added
 second line
 created as second.txt
